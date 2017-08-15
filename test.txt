@@ -1,2 +1,17 @@
+<<<<<<< HEAD
 do test
 modify HTML 
+=======
+<!DOCTYPE html>
+<html lang="ZH-CN">
+<head>
+  <meta charser="utf-8">
+  <title >test HTML page</title>
+</head>
+<body>
+  <h2>Testing...</h2>
+  <div style="width:100px; height:100px; background:orange;"></div>
+</body>
+
+</html>
+>>>>>>> origin/master
