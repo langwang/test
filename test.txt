@@ -1,1 +1,10 @@
-do test
+<!DOCTYPE html>
+<html>
+<head>
+  <title >test HTML page</title>
+</head>
+<body>
+  <h2>Testing...</h2>
+</body>
+
+</html>
