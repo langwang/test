@@ -5,6 +5,7 @@
 </head>
 <body>
   <h2>Testing...</h2>
+  <div style="width:100px; height:100px; background:orange;"></div>
 </body>
 
 </html>
