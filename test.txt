@@ -7,10 +7,14 @@
 <body>
   <h2>Testing...</h2>
   <div style="width:100px; height:100px; background:orange;"></div>
+<<<<<<< HEAD
   <h3>github modify content</h3>
   <h4>modify localhost</h4>
   <p>github 修改了</p>
   <div >我在本地修改了</div>
+=======
+  <p>TWO修改了</p>
+>>>>>>> one
 </body>
 
 
